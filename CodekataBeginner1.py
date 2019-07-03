@@ -1,5 +1,7 @@
 x=float(input())
-if x >= 0 :
+if x > 0 :
   print("POSITIVE")
-else:
+elif x < 0:
   print("NEGATIVE")
+else :
+  print ("ZERO")
