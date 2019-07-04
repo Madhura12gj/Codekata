@@ -1,0 +1,2 @@
+urstr=input()
+print(urstr +'.')
