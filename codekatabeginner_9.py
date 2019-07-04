@@ -5,5 +5,5 @@ for i in range (n):
   numbers=int(input())
   lst.append(numbers)
   
-w=lst[ :k]
-print(sum(w))
+a=lst[ :k]
+print(sum(a))
