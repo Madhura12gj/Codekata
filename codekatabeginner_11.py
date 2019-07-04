@@ -1,6 +1,6 @@
 n=int(input())
-k=int(input())
-if k!=0:
-  print(n**k)
+a=int(input())
+if a!=0:
+  print(n**a)
 else:
   print(1)
