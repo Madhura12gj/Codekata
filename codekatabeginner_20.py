@@ -1,4 +1,4 @@
-n=int(input())
+kit=int(input())
 for i in range(1,6):
-  val=n*i
+  val=kit*i
   print(val,end=" ")
