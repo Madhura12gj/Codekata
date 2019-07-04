@@ -1,6 +1,6 @@
-
-l= int(input())  
-u= int(input())  
+l,u =input().split()
+l= int(l)  
+u= int(u)  
 for num in range(l+1,u):  
   if num > 1:
     for i in range(2,num):
