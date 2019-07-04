@@ -7,4 +7,4 @@ for num in range(l+1,u):
        if (num % i) == 0:
          break
     else:
-      print(num) 
+      print(num, end=" ") 
