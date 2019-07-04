@@ -1,9 +1,9 @@
 lst=[]
 n=int(input())
-k=int(input())
+a=int(input())
 for i in range (n):
   numbers=int(input())
   lst.append(numbers)
   
-a=lst[ :k]
-print(sum(a))
+k=lst[ :a]
+print(sum(k))
